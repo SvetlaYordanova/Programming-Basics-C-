@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\bin\Debug\netcoreapp2.0\Trapeziod Area.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\bin\Debug\netcoreapp2.0\Trapeziod Area.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\bin\Debug\netcoreapp2.0\Trapeziod Area.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\bin\Debug\netcoreapp2.0\Trapeziod Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\bin\Debug\netcoreapp2.0\Trapeziod Area.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Trapeziod Area\Trapeziod Area\obj\Debug\netcoreapp2.0\Trapeziod Area.pdb

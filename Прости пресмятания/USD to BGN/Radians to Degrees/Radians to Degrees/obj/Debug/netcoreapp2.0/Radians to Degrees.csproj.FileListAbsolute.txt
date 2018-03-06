@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\bin\Debug\netcoreapp2.0\Radians to Degrees.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\bin\Debug\netcoreapp2.0\Radians to Degrees.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\bin\Debug\netcoreapp2.0\Radians to Degrees.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\bin\Debug\netcoreapp2.0\Radians to Degrees.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\bin\Debug\netcoreapp2.0\Radians to Degrees.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Radians to Degrees\Radians to Degrees\obj\Debug\netcoreapp2.0\Radians to Degrees.pdb

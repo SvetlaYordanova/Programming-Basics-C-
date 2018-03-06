@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\bin\Debug\netcoreapp2.0\Square Area.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\bin\Debug\netcoreapp2.0\Square Area.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\bin\Debug\netcoreapp2.0\Square Area.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\bin\Debug\netcoreapp2.0\Square Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\bin\Debug\netcoreapp2.0\Square Area.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Square Area\Square Area\obj\Debug\netcoreapp2.0\Square Area.pdb
