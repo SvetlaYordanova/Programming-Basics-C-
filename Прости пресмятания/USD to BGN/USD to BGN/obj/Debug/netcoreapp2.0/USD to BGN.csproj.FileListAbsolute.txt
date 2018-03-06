@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\bin\Debug\netcoreapp2.0\USD to BGN.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\bin\Debug\netcoreapp2.0\USD to BGN.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\bin\Debug\netcoreapp2.0\USD to BGN.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\bin\Debug\netcoreapp2.0\USD to BGN.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\bin\Debug\netcoreapp2.0\USD to BGN.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\USD to BGN\USD to BGN\obj\Debug\netcoreapp2.0\USD to BGN.pdb
