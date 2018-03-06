@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\bin\Debug\netcoreapp2.0\Currency Converter.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\bin\Debug\netcoreapp2.0\Currency Converter.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\bin\Debug\netcoreapp2.0\Currency Converter.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\bin\Debug\netcoreapp2.0\Currency Converter.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\bin\Debug\netcoreapp2.0\Currency Converter.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Currency Converter\Currency Converter\obj\Debug\netcoreapp2.0\Currency Converter.pdb

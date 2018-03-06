@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp2.0\Greeting by Name.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp2.0\Greeting by Name.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp2.0\Greeting by Name.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp2.0\Greeting by Name.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\bin\Debug\netcoreapp2.0\Greeting by Name.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Greeting by Name\Greeting by Name\obj\Debug\netcoreapp2.0\Greeting by Name.pdb
