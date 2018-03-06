@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\bin\Debug\netcoreapp2.0\curenci converter new.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\bin\Debug\netcoreapp2.0\curenci converter new.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\bin\Debug\netcoreapp2.0\curenci converter new.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\bin\Debug\netcoreapp2.0\curenci converter new.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\bin\Debug\netcoreapp2.0\curenci converter new.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\curenci converter new\curenci converter new\obj\Debug\netcoreapp2.0\curenci converter new.pdb

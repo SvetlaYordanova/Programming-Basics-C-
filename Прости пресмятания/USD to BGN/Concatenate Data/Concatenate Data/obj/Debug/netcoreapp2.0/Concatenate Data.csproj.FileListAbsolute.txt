@@ -1,0 +1,10 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\bin\Debug\netcoreapp2.0\Concatenate Data.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\bin\Debug\netcoreapp2.0\Concatenate Data.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\bin\Debug\netcoreapp2.0\Concatenate Data.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\bin\Debug\netcoreapp2.0\Concatenate Data.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\bin\Debug\netcoreapp2.0\Concatenate Data.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\obj\Debug\netcoreapp2.0\Concatenate Data.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\obj\Debug\netcoreapp2.0\Concatenate Data.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\obj\Debug\netcoreapp2.0\Concatenate Data.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\obj\Debug\netcoreapp2.0\Concatenate Data.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\Concatenate Data\Concatenate Data\obj\Debug\netcoreapp2.0\Concatenate Data.pdb
