@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\bin\Debug\netcoreapp2.0\2D Rectangle Area.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\bin\Debug\netcoreapp2.0\2D Rectangle Area.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\bin\Debug\netcoreapp2.0\2D Rectangle Area.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\bin\Debug\netcoreapp2.0\2D Rectangle Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\bin\Debug\netcoreapp2.0\2D Rectangle Area.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\2D Rectangle Area\2D Rectangle Area\obj\Debug\netcoreapp2.0\2D Rectangle Area.pdb

@@ -1,0 +1,11 @@
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\bin\Debug\netcoreapp2.0\1000 Days After Birth.deps.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\bin\Debug\netcoreapp2.0\1000 Days After Birth.runtimeconfig.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\bin\Debug\netcoreapp2.0\1000 Days After Birth.runtimeconfig.dev.json
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\bin\Debug\netcoreapp2.0\1000 Days After Birth.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\bin\Debug\netcoreapp2.0\1000 Days After Birth.pdb
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.csprojResolveAssemblyReference.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.csproj.CoreCompileInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.AssemblyInfoInputs.cache
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.AssemblyInfo.cs
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.dll
+D:\Project\C#\Programming Basics with C#\Прости пресмятания\1000 Days After Birth\1000 Days After Birth\obj\Debug\netcoreapp2.0\1000 Days After Birth.pdb
